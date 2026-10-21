@@ -148,7 +148,7 @@ export function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>© {new Date().getFullYear()} Penmax Herbal Medical Centre. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Penmax Herbal Medical Centre. All rights reserved. Built by DNZL</p>
         <div className="payments"><span>M-PESA</span><span>VISA</span><span>mastercard</span><span>PayPal</span></div>
       </div>
     </footer>
